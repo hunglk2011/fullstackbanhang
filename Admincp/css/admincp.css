@@ -1,0 +1,10 @@
+ul.admincp_list{
+  padding: 0;
+  margin: 0;
+  list-style: none;
+}
+ul.admincp_list li{
+    float: left;
+    margin: 5px;
+}
+
