@@ -1,0 +1,1 @@
+<p>Bạn Đã Đặt Hàng Thành Công!</p>
