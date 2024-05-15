@@ -1,55 +1,63 @@
-body{
+body {
     margin: 0;
     padding: 0;
 }
-.wrapper{
-  border:1px solid black;
-  height: 700px;
-  width: 90%;
-  margin: 0 auto;
+
+.wrapper {
+    border: 1px solid black;
+    height: 700px;
+    width: 90%;
+    margin: 0 auto;
 
 }
-.header{
- border: 1px solid black;
- height:130px;
- width: 100%;
- background:brown;
+
+.header {
+    border: 1px solid black;
+    height: 130px;
+    width: 100%;
+    background: brown;
 }
-.menu{
-border: 1px solid black;
-height: 40px;
-width: 100%;
-background:#ddd;
+
+.menu {
+    border: 1px solid black;
+    height: 40px;
+    width: 100%;
+    background: #ddd;
 }
-.main{
-border: 1px solid black;
-height:400px ;
-width: 100%;
+
+.main {
+    border: 1px solid black;
+    height: 400px;
+    width: 100%;
 
 }
-.sidebar{
+
+.sidebar {
     border: 1px solid rgb(180, 30, 30);
-height:300px ;
-width: 20%;
-margin-top: 5px;
-margin-left: 5px;
-float:left;
+    height: 300px;
+    width: 20%;
+    margin-top: 5px;
+    margin-left: 5px;
+    float: left;
 }
-.maincontent{
+
+.maincontent {
     border: 1px solid rgb(180, 30, 30);
-    height:390px ;
+    height: 390px;
     width: 79%;
     margin-top: 5px;
     margin-left: 10px;
- float: right;
-    
+    float: right;
+
 }
-.clear{
-  clear: both;  
+
+.clear {
+    clear: both;
 }
-.footer{
+
+.footer {
     border: 1px solid black;
-    height:150px ;
+    height: 150px;
     width: 100%;
     background: red;
 }
